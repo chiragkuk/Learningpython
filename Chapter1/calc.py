@@ -8,3 +8,6 @@ print(4//2)
 #Rounding 
 print(round(2**0.5, 4))
 
+#Exponent
+print(2**3**2)
+
