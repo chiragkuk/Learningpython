@@ -1,0 +1,5 @@
+name,char=input("Enter your name and character you want to count with comma seperated ").split(",")
+convertedName= name.lower()
+convertedChar=char.lower()
+print(f"The length of user name is {len(convertedName)}")
+print(f"The length of user inputted character is {convertedName.count(convertedChar)}")
