@@ -1,4 +1,4 @@
-#String Indexing is more of Positioning of String
+#String Indexing is more of Positioning of String string start from 0
 
 language="python"
 #If you want to print from left to right
