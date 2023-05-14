@@ -52,3 +52,10 @@ users={
 }
 
 print (users['user2'])
+
+# How to add data to empty dictionary 
+user_info2={}
+user_info2['Name']="Mohit"
+user_info2['Age']="25"
+
+print (user_info2)
